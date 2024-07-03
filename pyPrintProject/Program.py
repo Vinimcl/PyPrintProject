@@ -7,7 +7,7 @@ from datetime import datetime
 webdriver_path = 'C:\\chromedriver-win32\\chromedriver-win32\\chromedriver.exe'
 
 # Caminho certificado digital
-user_data_dir = r'C:\HERMES E CPF.pfx'
+user_data_dir = 'C:\HERMES E CPF.pfx'
 
 # URL do site
 url = 'https://domicilio-eletronico.pdpj.jus.br/comunicacoes;tipo=Comunicacao'
